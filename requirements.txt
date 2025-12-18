@@ -6,3 +6,4 @@ werkzeug
 gunicorn
 requests
 bs4
+fake-useragent
