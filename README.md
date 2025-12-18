@@ -451,13 +451,16 @@ This tool is for educational purposes only. Please respect copyright laws and th
 
 ---
 
-## 📞 Contact
+## 💼 Contact Me for Paid Projects  
 
-**Your Name** - [@yourusername](https://twitter.com/yourusername)
+Have a project in mind or need expert help?  
+I’m available for **freelance work and paid collaborations**.  
 
-**Project Link**: [https://github.com/yourusername/video-downloader](https://github.com/yourusername/video-downloader)
+📩 **Email**: [shuvobbhh@gmail.com]  
+💬 **Telegram / WhatsApp**: [+8801616397082]  
+🌐 **Portfolio**: [Portfolio Website](https://mahdi-hasan-shuvo.github.io/Mahdi-hasan-shuvo/)  
 
-**Email**: your.email@example.com
+> *"Quality work speaks louder than words. Let's build something remarkable together."*  
 
 ---
 
